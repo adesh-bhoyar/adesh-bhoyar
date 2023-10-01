@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Android Developer<br>I'm looking for help with new developers<br>I'm currently learning kotlin & courtines<br>I like code 
+I'm currently working on Android Developer<br>I'm looking for help with new developers<br>I'm currently develop my skills with kotlin & courtines<br>I like code 
 
 
 ## 🌐 Socials:
