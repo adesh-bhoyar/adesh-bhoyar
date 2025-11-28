@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Adesh Bhoyar 👨‍💻
-I'm currently working on Android Developer<br>I'm looking for help with new developers<br>I'm currently develop my skills with kotlin & courtines<br>I like code 
+👨‍💻 Android Developer | Passionate about building great mobile experiences
+📚 Growing skills in Kotlin, Coroutines, & Jetpack Compose
 
 
 ## 🌐 Socials:
